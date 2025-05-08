@@ -1,6 +1,8 @@
-# 💫 About Me:
-I'm a software engineer, working in system software tools, e.g. Compiler toolchains.<br>Worked for P4 language compiler (Intel IPU targets), Atmel/Microchip's AVR GNU Toolchain and Toshiba's C19A compiler.
-
+# About Me:
+I'm a software engineer, developing and testing the system software tools, e.g. Compiler toolchains.
+<li>I have worked for P4C, P4 language compiler targeting Intel's IPUs, Atmel/Microchip's AVR GNU Toolchain and Toshiba's C19A compiler (for MIPS based Tx19A microprocessor).
+<li>I'm proficient in developing and testing the software tools. I also have expertise in static analysis, unit testing, code coverage for the software tools.
+<li>Expertise: C, C++, Python, Linux Shell scripts, Makefile, CI/CD Jenkins, Git, GitHub Actions...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pitchumanis) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.pitchumani@gmail.com) 
